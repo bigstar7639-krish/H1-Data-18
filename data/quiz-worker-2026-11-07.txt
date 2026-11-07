@@ -4,3 +4,6 @@ A: Timesplitters: Future Perfect - Entertainment: Video Games
 Auto Quiz - Animal 🧠
 Q: Which of these Nickelodeon game shows aired first?
 A: Double Dare - Entertainment: Television
+Auto Quiz - Baby 🧠
+Q: In web design, what does CSS stand for?
+A: Cascading Style Sheet - Science: Computers
