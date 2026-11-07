@@ -25,3 +25,6 @@ A: The United States of America - Entertainment: Television
 Auto Quiz - Fitness 🧠
 Q: Who stars in Brutal Legend?
 A: Jack Black - Entertainment: Video Games
+Auto Quiz - Diet 🧠
+Q: Which of these is NOT a team available in the game Pokémon Go?
+A: Team Rocket - Entertainment: Video Games
