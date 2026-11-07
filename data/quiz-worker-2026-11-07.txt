@@ -7,3 +7,6 @@ A: Double Dare - Entertainment: Television
 Auto Quiz - Baby 🧠
 Q: In web design, what does CSS stand for?
 A: Cascading Style Sheet - Science: Computers
+Auto Quiz - Student 🧠
+Q: Chartreuse is a color between yellow and what?
+A: Green - General Knowledge
