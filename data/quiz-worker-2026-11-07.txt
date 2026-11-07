@@ -10,3 +10,6 @@ A: Cascading Style Sheet - Science: Computers
 Auto Quiz - Student 🧠
 Q: Chartreuse is a color between yellow and what?
 A: Green - General Knowledge
+Auto Quiz - Business 🧠
+Q: What is the protagonist's title given by the demons in DOOM (2016)?
+A: Doom Slayer - Entertainment: Video Games
