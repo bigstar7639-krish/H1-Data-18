@@ -132,3 +132,7 @@ Dog - givedogbone0000okan_o9l6 - Give the dog a bone
 Dog - isbn_9780780780644 - A Dog Named Sam
 Food - bwb_S0-DTM-609 - Food Editor's Hometown Favorites Cookbok American Regional and LOcal Specialties
 Food - bwb_S0-AVQ-174_1 - The Food you Love
+Cricket - bwb_KV-028-408 - It Isn't Cricket
+Cricket - bwb_S0-EBY-685 - A Christmas Carol , The Cricket on the Hearth
+Space - perceptionextens0000ralp - Perception, Extension, And Enclosure Of Space
+Space - spacewalksexplor0000kath - Space Walks (Explore Space)
