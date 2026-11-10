@@ -262,3 +262,8 @@ Bird - I Know Why the Caged Bird Sings
 Bird - Bird by Bird
 Bird - The Thorn Birds
 Baby - Owl Babies
+Animal - Animal Farm
+Animal - Animal Farm / Nineteen Eighty-Four
+Animal - The social animal
+Baby - Baby Einstein
+Baby - Semilla del Diablo
