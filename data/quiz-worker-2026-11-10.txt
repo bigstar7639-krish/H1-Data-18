@@ -173,3 +173,13 @@ Q+A Katha - Mumbai 🧠
 Question: Who is able to grab the survivors with his tongue in Left 4 Dead?
 
 Answer: Smoker - Entertainment: Video Games. Itha kelvi Mumbai pathi - Answer Smoker. Mumbai pathi kelvi patta oru ponnu, ava daily Mumbai pathi yosichittu iruntha, oru naal ava oru puthu book padichu Mumbai oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Mumbai ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Mumbai la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam.
+Q+A Katha - London 🧠
+
+Question: In CSS, which of these values CANNOT be used with the "position" property?
+
+Answer: center - Science: Computers. Itha kelvi London pathi - Answer center. Oru kaalathula oru oor la London nu oru periya vishayam irunthuchu, yaarum atha purinjikama irunthanga, oru chinna paiyan thaan London oda arumaiya purinjikittan, avan London pathi ellaar kitta yum pesi puriya vachan, mella mella oor makkal ellam London ah purinjikittanga, antha oor ye London nala azhaga maariduchu, ithula irunthu namakku theriyura vishayam enna na, London ah purinjikita life ye azhagahum.
+Q+A Katha - Paris 🧠
+
+Question: In what year was Taylor Swift born?
+
+Answer: 1989 - Entertainment: Music. Itha kelvi Paris pathi - Answer 1989. Oru kaalathula oru oor la Paris nu oru periya vishayam irunthuchu, yaarum atha purinjikama irunthanga, oru chinna paiyan thaan Paris oda arumaiya purinjikittan, avan Paris pathi ellaar kitta yum pesi puriya vachan, mella mella oor makkal ellam Paris ah purinjikittanga, antha oor ye Paris nala azhaga maariduchu, ithula irunthu namakku theriyura vishayam enna na, Paris ah purinjikita life ye azhagahum.
