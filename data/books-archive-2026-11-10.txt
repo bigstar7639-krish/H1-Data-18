@@ -153,3 +153,6 @@ Sea - neptunesdomainpo0000mart - neptune's domain: a political geography of the 
 Mountain - bwb_S0-DZK-216 - Mountain Village
 Mountain - mountainmadness0000wini_s7s5 - mountain madness
 Sky - bwb_C0-CEH-108 - Flames in the Sky
+River - unitedstatescoas0000vari_w3g4 - United States Coast Pilot: Atlantic Coast: SEction A St. Croix River to Cape Cod
+River - gilariverofsouth0000edwi - The Gila, river of the Southwest (A Bison book)
+Sky - bwb_S0-BGR-072 - Get Out Of My Sky
